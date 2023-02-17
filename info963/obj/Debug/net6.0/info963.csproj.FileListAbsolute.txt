@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\bin\Debug\net6.0\info963.exe
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\bin\Debug\net6.0\info963.deps.json
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\bin\Debug\net6.0\info963.runtimeconfig.json
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\bin\Debug\net6.0\info963.dll
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\bin\Debug\net6.0\info963.pdb
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.dll
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\refint\info963.dll
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.pdb
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\info963.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Dotn05-2\Ex098\info963\obj\Debug\net6.0\ref\info963.dll
